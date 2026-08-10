@@ -3,11 +3,13 @@ wall of shields
 standing strong
 on this their chosen battle field
 
-5
+
+
 6 From the lines
 7 Shield by shield
 8 Side by side
 9 We're marching into destiny
+
 
 10
 11 March as one
@@ -15,3 +17,4 @@ on this their chosen battle field
 13 Oden's sons
 14 Attack!
 
+for tag only
